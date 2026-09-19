@@ -1,0 +1,15 @@
+backend/.env
+frontend/.env
+backend/node_modules/
+frontend/node_modules/
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+*.log
+backend/data/*.sqlite
+.agents/
+.neon/
+skills-lock.json
+neon.ts
